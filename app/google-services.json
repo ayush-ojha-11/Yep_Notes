@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241868295911",
+    "project_id": "yep-notes-ab7ba",
+    "storage_bucket": "yep-notes-ab7ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241868295911:android:d5e5d353a534ca86eb5c42",
+        "android_client_info": {
+          "package_name": "com.example.yepnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241868295911-a1dsug3h2c2nju3pfira3e6t1maceho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_V5F-w4nOklCHi12WVuskP2_kc46fTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241868295911-a1dsug3h2c2nju3pfira3e6t1maceho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

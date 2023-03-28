@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yep Notes</string>
+    <string name="emailPattern">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+    <string name="webClientId">241868295911-4787cgo5qsre9m16tfa2kuk5hndeofpm.apps.googleusercontent.com</string>
+</resources>
